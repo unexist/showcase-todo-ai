@@ -1,0 +1,3 @@
+= Showcase for AI code analyses based on Quarkus
+
+This project holds a showcase for various AI-related code analyses
