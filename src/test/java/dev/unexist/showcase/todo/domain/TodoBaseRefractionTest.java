@@ -3,7 +3,7 @@ package dev.unexist.showcase.todo.domain.todo;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-public class TodoBaseTest {
+public class TodoBaseRefractionTest {
 
     @Test
     public void testSetTitle() {
