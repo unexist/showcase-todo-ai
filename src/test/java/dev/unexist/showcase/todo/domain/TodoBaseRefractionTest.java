@@ -1,5 +1,7 @@
-package dev.unexist.showcase.todo.domain.todo;
+package dev.unexist.showcase.todo.domain;
 
+import dev.unexist.showcase.todo.domain.todo.DueDate;
+import dev.unexist.showcase.todo.domain.todo.TodoBase;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
