@@ -1,0 +1,13 @@
+@startuml
+actor User
+participant Frontend
+participant Backend
+database Database
+
+User -> Frontend : Create todo
+Frontend -> Backend : Send todo data
+Backend -> Database : Store todo data
+Database -> Backend : Confirmation
+Backend -> Frontend : Send confirmation
+Frontend -> User : Todo created
+@enduml
