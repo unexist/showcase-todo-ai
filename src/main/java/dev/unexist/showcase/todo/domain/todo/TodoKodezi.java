@@ -18,8 +18,8 @@ The code then defines a setDueDate function that sets the dueDate variable to th
 
 package dev.unexist.showcase.todo.domain.todo;    // This code defines a class
 
-import javax.validation.constraints.NotBlank;
-import javax.validation.constraints.NotNull;
+import jakarta.validation.constraints.NotBlank;
+import jakarta.validation.constraints.NotNull;
 import java.util.Objects;
 
 public class TodoKodezi {    // The code then defines the TodoBase class
